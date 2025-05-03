@@ -1,0 +1,30 @@
+<h1 class="text-center my-3">Lista de usuários</h1>
+<table class="table">
+ <div class="row">
+ <div class="col-12">
+ <thead>
+ <th>Código do usuario</th>
+ <th>Nome</th>
+ <th>E-Mail</th>
+  <th>Senha</th>
+ </thead>
+ <tbody>
+ {{#each usuario}}
+ <tr>
+ <th>{{this.id_usuario}}</th>
+ <th>{{this.nome}}</th>
+ <th>{{this.email}}</th>
+ <th>{{this.senha}}</th>
+ <th><a href='Atualizar/{{this.id_usuario}}'>Editar<i class="bi bi-pencilsquare"></i></a></th>
+ <th> <form class="borde-0 m-0" action="/usuarios/Delete" method="POST">
+ <input type="hidden" name="id_usuario" value={{this.id_usuario}}>
+ <input type="submit" value="Excluir" name="Excluir"/>
+
+ </form></th>
+
+ </tr>
+ {{/each}}
+ </tbody>
+ </div>
+ </div>
+</table>

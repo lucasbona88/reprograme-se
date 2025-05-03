@@ -1,0 +1,72 @@
+[
+    {
+      "NomeCompleto": "Ana Silva",
+      "Endereco": "Rua das Flores, 123, Cidade Alegre",
+      "Nacionalidade": "Brasileira",
+      "Idade": 25,
+      "Sexo": "Feminino"
+    },
+    {
+      "NomeCompleto": "Ana Sousa",
+      "Endereco": "Rua das Flores, 124, Cidade Feliz",
+      "Nacionalidade": "Brasileira",
+      "Idade": 24,
+      "Sexo": "Feminino"
+    },
+    {
+      "NomeCompleto": "Jovem Soldado",
+      "Endereco": "Rua dos Quarteis, S/N, Cidade Militar",
+      "Nacionalidade": "Brasileira",
+      "Idade": 19,
+      "Sexo": "Masculino"
+    },
+    {
+      "NomeCompleto": "Kento Sashinato",
+      "Endereco": "Rua Aburana, 450, Tokyo",
+      "Nacionalidade": "Japonesa",
+      "Idade": 11,
+      "Sexo": "Masculino"
+    },
+    {
+      "NomeCompleto": "José da Silva",
+      "Endereco": "Rua das Pedras, 44, Ponte Nova Velha",
+      "Nacionalidade": "Brasileira",
+      "Idade": 44,
+      "Sexo": "Masculino"
+    },
+    {
+      "NomeCompleto": "Maria da Silva",
+      "Endereco": "Rua das Pedras, 44, Ponte Nova Velha",
+      "Nacionalidade": "Brasileira",
+      "Idade": 42,
+      "Sexo": "Feminino"
+    },
+    {
+      "NomeCompleto": "Manoel Joaquim Aguilar das Torres",
+      "Endereco": "Avenida dos Fortes, 98, Popipota",
+      "Nacionalidade": "Brasileira",
+      "Idade": 29,
+      "Sexo": "Masculino"
+    },
+    {
+      "NomeCompleto": "Bebeto Altrem",
+      "Endereco": "Rua 15 de março, 54, Santa Indaiá",
+      "Nacionalidade": "Brasileira",
+      "Idade": 32,
+      "Sexo": "Masculino"
+    },
+    {
+      "NomeCompleto": "Rapunzel Encantada",
+      "Endereco": "Torre mais alta, Reino Encantado",
+      "Nacionalidade": "Disney",
+      "Idade": 16,
+      "Sexo": "Feminino"
+    },
+    {
+      "NomeCompleto": "Karolyny dos Santos",
+      "Endereco": "Rua dos Cedros, 183, Aracruz",
+      "Nacionalidade": "Brasileira",
+      "Idade": 33,
+      "Sexo": "Feminino"
+    }
+]

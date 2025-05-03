@@ -1,0 +1,14 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Cortar Cabelo",
+      "status": "Pendente"
+    },
+    {
+      "id": 2,
+      "descricao": "Escovar os dentes",
+      "status": "Pendente"
+    }
+  ]
+}

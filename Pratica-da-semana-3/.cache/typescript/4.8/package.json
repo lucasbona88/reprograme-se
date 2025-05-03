@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.682"
+  },
+  "devDependencies": {
+    "@types/asap": "^2.0.2",
+    "@types/express": "^4.17.21",
+    "@types/formidable": "^3.4.5",
+    "@types/once": "^1.4.4"
+  }
+}
